@@ -1,0 +1,8 @@
+{
+  "name": "chetbot",
+  "description": "A high-end, multi-modal AI workspace featuring real-time voice interaction, advanced image generation, and intelligent chat powered by the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
